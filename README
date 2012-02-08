@@ -1,7 +1,23 @@
-This project contains code to be reviewed!
+Expert Java code reveiwer, we need your help!!
 
 We had an consultant working for us a while back who wrote a MapReduce
 framework for us. He claims that it works when he runs it on his
 computer, but we have doubts about the code quality. Could you help us
-point out issues in the code, where the quality standard does not meet
-the requirements of a production system? 
+point out issues in the code, where you find that the quality is less
+than what you would require of a system before putting it into
+production?
+
+We are interested in issues related to all axis of software
+development, including (but not limited to):
+
+- Correctness
+- Readability
+- Maintainability
+- Coding style
+- Idiomatic use of the language
+- Robustness
+- Usability
+- Extensibility
+- Performance
+- Formatting
+
