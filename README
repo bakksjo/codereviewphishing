@@ -1,1 +1,7 @@
 This project contains code to be reviewed!
+
+We had an consultant working for us a while back who wrote a MapReduce
+framework for us. He claims that it works when he runs it on his
+computer, but we have doubts about the code quality. Could you help us
+point out issues in the code, where the quality standard does not meet
+the requirements of a production system? 
